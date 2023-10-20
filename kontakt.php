@@ -33,7 +33,7 @@ get_header();
         <p class="socials__social_para">Adres 71/2</p>
         <p class="socials__social_para">11-222 Szczecin</p>
       </div>
-      <div style="width: 100%">
+      <div style="width: 100%; margin-bottom: 3rem">
         <iframe
           width="100%"
           height="400"
