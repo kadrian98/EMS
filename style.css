@@ -252,8 +252,8 @@ iframe {
   justify-content: center;
   width: 80%;
   margin: auto;
-  margin-top: 3rem;
   flex-wrap: wrap;
+  text-shadow: -2px 1px 7px #111;
 }
 
 .socials__social {
@@ -295,7 +295,7 @@ iframe {
   padding: 2rem 0;
 }
 .ems_advantages_container {
-  width: 65%;
+  width: 80%;
   margin: auto;
   color: #212529;
   display: flex;
@@ -527,8 +527,6 @@ footer {
 }
 
 footer p {
-  width: 95%;
-  margin: auto;
   text-align: center;
   color: #fff;
   font-size: inherit;
